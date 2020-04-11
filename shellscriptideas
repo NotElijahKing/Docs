@@ -1,8 +1,0 @@
-  Shell Script Ideas
-
-Mkfolder - Asks for the directory to 'cd' into. then you type in a name + enter to make a folder, or q to quit.
-Backup - copies folders specified in config file to a 'backup-x/x/2020' folder, name made via 'date' command
-Info - Gets distro name, basically just Neofetch
-Randowall - Lists possible themes, then switches wallpaper to: (theme) or (random)
-
-  More to come! (Hopefully)
