@@ -1,0 +1,30 @@
+In st and other suckless programs, there is no graphical way to set fonts.
+I in particular have went through a small amount of trouble finding what works.
+Here's a nice list.
+
+
+Works:
+Source Code Pro
+Gohu Gohufont
+xos4 Terminus
+DEC Terminal
+Fira Code (+ Retina)
+Bitstream Charter works, but is not monospaced and is a bit odd.
+Bitstream Terminal is an absolute mess.
+
+Hack is unimpressive but it does work.
+
+Does NOT work:
+Inconsolata
+
+
+Not sure:
+Hack Nerd Font Mono
+FiraCode (with no options)
+
+
+I have yet to try:
+Any other Adobe fonts. Fsck off.
+Any bold font ( could potentially be causing some problems ) 
+Monoid. I have it downloaded
+

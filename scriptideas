@@ -1,0 +1,17 @@
+		Greetings !
+
+	Here I will list ideas for possible scripts that I could make. At the current time,
+the only shell script I have written is colorset, which merges a colorscheme (from a directory).
+
+	Basic
+- system info
+- 1337 h4xx0r script that makes my workspace look like I am hacking the gov't or something
+- 
+	Intermediate
+- themeset - more fancy version of colorset which also sets wallpaper
+- something to automate suckless builds (make patch directory, apply patches, auto build and install)
+- 
+	Advanced
+- a system setup script that fetches suckless tools and others based on distro (arch,void,gentoo)
+- 
+- 
