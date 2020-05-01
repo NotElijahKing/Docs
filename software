@@ -1,0 +1,14 @@
+Software I find helpful, and/or use daily on my W530:
+
+Operating System (and Kernel)
+  - Gentoo Linux
+  - I have used Void Linux, Arch Linux, Ubuntu, and OpenBSD in the past, of the 4 Void and OpenBSD I still use.
+General OS usage
+  - st, the simple terminal, from suckless
+  - dwm
+  - startx and wpa_supplicant
+Shell
+  - the MirBSD Korn Shell
+Text Editor
+  - Neovim
+  - I tried GNU Emacs but it's way too sophisticated for me.
